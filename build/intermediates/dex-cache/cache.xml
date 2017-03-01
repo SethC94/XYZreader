@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_45becc94b7def93cce08f1e373825193fcf1bfa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_71cabcc6f24305a54373d63497564d25459fef72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_56608379e0126f7a60a6235f0d08c4e97ae5c720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ff95779df12965ee3edbf4666bb5201f906738a">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7ce0c5bf488c82887be2c2f90900d70b77609e25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_8f75095555a9702a255374df6236d8ca913c41dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_bcf10f1c55094704423731c980d84e904b43be28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_a84d0d96c249a4c93d80dc92961d492d36ed95d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-22.0.0_1f49af0d91c4fea73674e70e4fc124f71a70c38c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-22.0.0_aed5866998b190f588e3726a93a90ec31961e237\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_60c7031ad051ee580ca38af80adeff9ef4a038cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="571c133e2a66ebf929f98059e4124b1173782ccd">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_41c1f06634d0a814efefb2af3c1dbe8e4714dd38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.0.0_0190da61374b54a36040bd6bbfb59f67091a683f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_ce20dd9fc5f1b267295aca19959a375d3b360e93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_872c42dad43a27c52bfedd4244ac62eb26c6c43d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_ad2af4f4a8aac1a1e4a7b7bccdaa1b25677cbd54\classes.dex" />
+    </item>
+
+</items>
