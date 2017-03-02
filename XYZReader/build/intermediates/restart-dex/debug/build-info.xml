@@ -5,29 +5,29 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="69201933977310"
+    timestamp="99215173746563"
     token="4228548482432601492"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2292" />
+        duration="526" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="983" />
+        duration="598" />
     <task
         name="verifier"
-        duration="227" />
+        duration="155" />
 
     <artifact
         location="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\outputs\apk\XYZReader-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="69201933977310"
+        timestamp="99215173746563"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\BootyCall2.0\Desktop\ASP\XYZ\XYZReader\build\outputs\apk\XYZReader-debug.apk"
